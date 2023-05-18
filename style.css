@@ -1,0 +1,41 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+
+}
+
+header {
+  background-color: #0b0d86;
+  color: rgba(229, 228, 232, 0.863);
+  text-align: center;
+  padding: 5px;
+}
+
+h1 {
+  margin: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 0;
+
+}
+
+p {
+  line-height: 1.5;
+}
+
+footer {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
